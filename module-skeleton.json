@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-payments-nuxt",
+  "capabilityKey": "liberusoftware/module-billing-payments",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-billing-payments-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/billing/nextjs/payments.md",
+  "presentationPlan": "projects/billing/nuxt/payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
